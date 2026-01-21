@@ -9,7 +9,8 @@ This project correlates Land Surface Temperature (LST) with tree canopy coverage
 
 ## 📖 Project Background
 
-Los Angeles is one of the most heat-vulnerable cities in the U.S. [cite: 255] [cite_start]This project leverages ArcGIS Pro to analyze the spatial distribution of Urban Heat Islands (UHIs) and their relationship with urban infrastructure and social equity.
+Los Angeles is one of the most heat-vulnerable cities in the U.S.
+This project leverages ArcGIS Pro to analyze the spatial distribution of Urban Heat Islands (UHIs) and their relationship with urban infrastructure and social equity.
 
 
 ## 🎯 Key Objectives
