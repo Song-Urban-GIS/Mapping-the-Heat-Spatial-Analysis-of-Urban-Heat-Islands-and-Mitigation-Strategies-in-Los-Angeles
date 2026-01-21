@@ -22,3 +22,4 @@ This project leverages ArcGIS Pro to analyze the spatial distribution of Urban H
  **Equity Analysis:** Overlap heat maps with socioeconomic data to identify vulnerable populations.
 
  **Suitability Mapping:** Propose optimal locations for tree planting and cooling centers.
+![Uploading image.png…]()
