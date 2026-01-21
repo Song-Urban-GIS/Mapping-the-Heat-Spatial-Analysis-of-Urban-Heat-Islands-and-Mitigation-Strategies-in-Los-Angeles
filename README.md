@@ -15,11 +15,23 @@ This project leverages ArcGIS Pro to analyze the spatial distribution of Urban H
 
 ## 🎯 Key Objectives
 
- **Identify Hotspots:** Pinpoint areas experiencing significantly higher surface temperatures ($5-10^{\circ}F$ above average) using NASA Landsat 8/9 data.
+ **Identify Hotspots:** Pinpoint areas experiencing significantly higher surface temperatures ($5-10^{\circ}F$ above average) using Landsat Surface Temperature data from NASA.
  
  **Correlation Study:** Analyze the inverse relationship between tree canopy coverage and UHI intensity.
  
  **Equity Analysis:** Overlap heat maps with socioeconomic data to identify vulnerable populations.
 
  **Suitability Mapping:** Propose optimal locations for tree planting and cooling centers.
-![Uploading image.png…]()
+
+
+<img width="1765" height="873" alt="Screenshot 2026-01-20 at 11 51 22 PM" src="https://github.com/user-attachments/assets/04eb755d-ab3f-4773-8d6e-5af3d0c5731f" />
+
+[NASA Landsat Surface Temperature Map of Los Angeles]
+
+<img width="1765" height="873" alt="Screenshot 2026-01-20 at 11 53 45 PM" src="https://github.com/user-attachments/assets/72e075c8-d8c3-4997-8fef-ec72c5f6b3b2" />
+
+[Correlation between Tree Canopy Coverage and UHI Intensity in LA]
+
+<img width="1765" height="873" alt="Screenshot 2026-01-20 at 11 55 33 PM" src="https://github.com/user-attachments/assets/01222296-bc80-4e05-8228-29fe238fa1d8" />
+
+[GIS Suitability Model for Urban Tree Planting in LA County]
